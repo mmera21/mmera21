@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="800" height="40">
+  <style>
+    .tw { animation: tw 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .d1 { animation-delay: .4s; } .d2 { animation-delay: .8s; } .d3 { animation-delay: 1.2s; } .d4 { animation-delay: 1.6s; }
+    @keyframes tw { 0%,100% { opacity: .35; transform: scale(.75); } 50% { opacity: 1; transform: scale(1.1); } }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFC1DA" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FF8FB8"/>
+      <stop offset="1" stop-color="#FFC1DA" stop-opacity="0"/>
+    </linearGradient>
+    <path id="heart" d="M0 -3 c-4 -6 -12 -2 -10 4 c1 4 10 10 10 10 s9 -6 10 -10 c2 -6 -6 -10 -10 -4z"/>
+    <path id="star" d="M0 -9 l2.5 6.5 l6.5 2.5 l-6.5 2.5 l-2.5 6.5 l-2.5 -6.5 l-6.5 -2.5 l6.5 -2.5z"/>
+  </defs>
+  <rect x="40" y="19" width="720" height="2" rx="1" fill="url(#g)"/>
+  <g fill="#FF8FB8">
+    <use href="#star" x="200" y="20" class="tw"/>
+    <use href="#star" x="300" y="20" class="tw d2"/>
+    <use href="#star" x="500" y="20" class="tw d1"/>
+    <use href="#star" x="600" y="20" class="tw d3"/>
+  </g>
+  <g fill="#F06595">
+    <use href="#heart" x="360" y="18" class="tw d1"/>
+    <use href="#heart" x="400" y="16" class="tw d4" transform-origin="400 20"/>
+    <use href="#heart" x="440" y="18" class="tw d2"/>
+  </g>
+</svg>
