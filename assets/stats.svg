@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="200" viewBox="0 0 495 200"><style>
+  .t { font: 700 18px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #D6336C; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #862E5C; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #862E5C; }
+  .s { font: 400 11px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #A9497A; }
+  .big { font: 700 34px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #D6336C; }
+  .row { animation: in .6s ease-out both; }
+  .tw { animation: tw 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  @keyframes tw { 0%,100% { opacity: .3; transform: scale(.7); } 50% { opacity: 1; transform: scale(1.1); } }
+</style>
+<rect x=".5" y=".5" rx="12" width="494" height="199" fill="#FFF0F6" stroke="#FFC1DA"/>
+  <text class="t" x="25" y="36">🌸 Mika's GitHub Stats</text><g class="row" style="animation-delay:0s">
+      <text class="l" x="25" y="70">💻  Commits (last year):</text><text class="v" x="240" y="70">99</text></g><g class="row" style="animation-delay:0.12s">
+      <text class="l" x="25" y="95">🔀  Pull requests:</text><text class="v" x="240" y="95">0</text></g><g class="row" style="animation-delay:0.24s">
+      <text class="l" x="25" y="120">📌  Issues:</text><text class="v" x="240" y="120">0</text></g><g class="row" style="animation-delay:0.36s">
+      <text class="l" x="25" y="145">📁  Public repos:</text><text class="v" x="240" y="145">8</text></g><g class="row" style="animation-delay:0.48s">
+      <text class="l" x="25" y="170">⭐  Stars earned:</text><text class="v" x="240" y="170">0</text></g>
+  <circle cx="400" cy="112" r="52" fill="none" stroke="#FFC1DA" stroke-width="7"/>
+  <circle cx="400" cy="112" r="52" fill="none" stroke="#F06595" stroke-width="7" stroke-linecap="round"
+    stroke-dasharray="326.7" stroke-dashoffset="291.1" transform="rotate(-90 400 112)"/>
+  <text class="big" x="400" y="118" text-anchor="middle">109</text>
+  <text class="s" x="400" y="138" text-anchor="middle">contributions</text>
+  <path class="tw" style="animation-delay:0s" fill="#F06595" d="M455 43 l2 5 l5 2 l-5 2 l-2 5 l-2 -5 l-5 -2 l5 -2z"/><path class="tw" style="animation-delay:1.2s" fill="#F06595" d="M345 169.4 l1.6 4 l4 1.6 l-4 1.6 l-1.6 4 l-1.6 -4 l-4 -1.6 l4 -1.6z"/></svg>
