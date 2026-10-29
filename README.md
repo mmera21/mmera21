@@ -1,5 +1,5 @@
 <!-- 🌸 Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1DA,100:FF8FB8&height=180&section=header&text=Hi,%20I'm%20Mika&fontColor=ffffff&fontSize=54&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20%26%20Architecture&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Hi, I'm Mika"/>
 
 <div align="center">
 
@@ -161,4 +161,4 @@ It started as a joke about Winnipeg's downtown parking prices. My roommates and 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FB8,100:FFC1DA&height=110&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
