@@ -1,5 +1,5 @@
 <!-- 🌸 Header -->
-<img src="assets/header.svg" width="100%" alt="Hi, I'm Mika"/>
+<img src="header.svg" width="100%" alt="Hi, I'm Mika"/>
 
 <div align="center">
 
