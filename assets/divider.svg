@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="800" height="40">
+  <style>
+    .tw { animation: tw 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .d1 { animation-delay: .4s; } .d2 { animation-delay: .8s; } .d3 { animation-delay: 1.2s; } .d4 { animation-delay: 1.6s; }
+    @keyframes tw { 0%,100% { opacity: .35; transform: scale(.75); } 50% { opacity: 1; transform: scale(1.1); } }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFC1DA" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FF8FB8"/>
+      <stop offset="1" stop-color="#FFC1DA" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="19" width="720" height="2" rx="1" fill="url(#g)"/>
+  <g fill="#FF8FB8">
+    <path class="tw" d="M200 11 l2.5 6.5 l6.5 2.5 l-6.5 2.5 l-2.5 6.5 l-2.5 -6.5 l-6.5 -2.5 l6.5 -2.5z"/>
+    <path class="tw d2" d="M290 11 l2.5 6.5 l6.5 2.5 l-6.5 2.5 l-2.5 6.5 l-2.5 -6.5 l-6.5 -2.5 l6.5 -2.5z"/>
+    <path class="tw d1" d="M510 11 l2.5 6.5 l6.5 2.5 l-6.5 2.5 l-2.5 6.5 l-2.5 -6.5 l-6.5 -2.5 l6.5 -2.5z"/>
+    <path class="tw d3" d="M600 11 l2.5 6.5 l6.5 2.5 l-6.5 2.5 l-2.5 6.5 l-2.5 -6.5 l-6.5 -2.5 l6.5 -2.5z"/>
+  </g>
+  <g fill="#F06595">
+    <path class="tw d1" d="M360 16 c-4 -6 -12 -2 -10 4 c1 4 10 10 10 10 s9 -6 10 -10 c2 -6 -6 -10 -10 -4z"/>
+    <path class="tw d4" d="M400 13 c-5 -7 -14 -2 -12 5 c1 5 12 12 12 12 s11 -7 12 -12 c2 -7 -7 -12 -12 -5z"/>
+    <path class="tw d2" d="M440 16 c-4 -6 -12 -2 -10 4 c1 4 10 10 10 10 s9 -6 10 -10 c2 -6 -6 -10 -10 -4z"/>
+  </g>
+</svg>

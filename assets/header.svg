@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200">
+  <style>
+    .title { font: 700 56px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
+    .sub { font: 600 20px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; letter-spacing: 1px; }
+    .fade { animation: fade 1.4s ease-out both; }
+    .fade2 { animation: fade 1.4s .4s ease-out both; }
+    .wave { animation: drift 6s ease-in-out infinite; }
+    .tw { animation: tw 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .d1 { animation-delay: .6s; } .d2 { animation-delay: 1.2s; } .d3 { animation-delay: 1.8s; }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes drift { 0%,100% { transform: translateX(0); } 50% { transform: translateX(-30px); } }
+    @keyframes tw { 0%,100% { opacity: .3; transform: scale(.7); } 50% { opacity: 1; transform: scale(1.1); } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFC1DA"/>
+      <stop offset="1" stop-color="#FF8FB8"/>
+    </linearGradient>
+    <path id="star" d="M0 -10 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 l7 -3z"/>
+  </defs>
+  <path d="M0 0 H1000 V150 C850 200 700 120 500 160 C300 200 150 120 0 160 Z" fill="url(#bg)"/>
+  <path class="wave" d="M0 160 C150 120 300 200 500 160 C700 120 850 200 1040 150 V175 C850 215 700 145 500 180 C300 215 150 140 0 180 Z" fill="#FF8FB8" opacity=".35"/>
+  <g fill="#ffffff">
+    <use href="#star" x="120" y="50" class="tw"/>
+    <use href="#star" x="880" y="45" class="tw d1"/>
+    <use href="#star" x="210" y="120" class="tw d2"/>
+    <use href="#star" x="800" y="115" class="tw d3"/>
+  </g>
+  <text x="500" y="85" text-anchor="middle" class="title fade">Hi, I'm Mika 🌸</text>
+  <text x="500" y="122" text-anchor="middle" class="sub fade2">Full Stack Developer • Backend &amp; Architecture</text>
+</svg>
