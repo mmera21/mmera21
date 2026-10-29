@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E75480&center=true&vCenter=true&width=560&lines=From+Chile+%F0%9F%87%A8%F0%9F%87%B1+to+Winnipeg+%F0%9F%87%A8%F0%9F%87%A6;Backend+%E2%80%A2+Databases+%E2%80%A2+Architecture+%F0%9F%92%BE;Building+tech+that+solves+real+problems+%E2%9C%A8;Open+to+a+Winter+2027+Co-op+%F0%9F%8C%B8" alt="Typing SVG" />
 
-<a href="[https://linkedin.com/in/YOUR-LINKEDIN"](https://www.linkedin.com/in/micaela-mera/)><img src="https://img.shields.io/badge/LinkedIn-F06595?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/micaela-mera/"><img src="https://img.shields.io/badge/LinkedIn-F06595?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:r.micaela.mera@gmail.com"><img src="https://img.shields.io/badge/Email-FF8FB8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=mmera21&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS"/>
 
