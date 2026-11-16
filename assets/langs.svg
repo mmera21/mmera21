@@ -12,10 +12,10 @@
 <rect x=".5" y=".5" rx="12" width="349" height="199" fill="#FFF0F6" stroke="#FFC1DA"/>
   <text class="t" x="25" y="36">🎀 Most Used Languages</text>
   <clipPath id="r"><rect x="25" y="52" width="300" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#r)"><rect x="25" y="52" width="300" height="10" fill="#FFC1DA"/><rect x="25.0" y="52" width="95.4" height="10" fill="#C2185B"/><rect x="120.4" y="52" width="80.4" height="10" fill="#E75480"/><rect x="200.8" y="52" width="58.3" height="10" fill="#F06595"/><rect x="259.2" y="52" width="37.7" height="10" fill="#FF8FB8"/><rect x="296.9" y="52" width="16.5" height="10" fill="#FFB3CF"/><rect x="313.4" y="52" width="5.2" height="10" fill="#FFD6E7"/></g><g class="row" style="animation-delay:0s"><circle cx="30" cy="88" r="5" fill="#C2185B"/>
+  <g clip-path="url(#r)"><rect x="25" y="52" width="300" height="10" fill="#FFC1DA"/><rect x="25.0" y="52" width="95.5" height="10" fill="#C2185B"/><rect x="120.5" y="52" width="80.2" height="10" fill="#E75480"/><rect x="200.7" y="52" width="58.4" height="10" fill="#F06595"/><rect x="259.1" y="52" width="37.8" height="10" fill="#FF8FB8"/><rect x="296.8" y="52" width="16.5" height="10" fill="#FFB3CF"/><rect x="313.3" y="52" width="5.2" height="10" fill="#FFD6E7"/></g><g class="row" style="animation-delay:0s"><circle cx="30" cy="88" r="5" fill="#C2185B"/>
       <text class="l" x="41" y="92">Ruby <tspan class="s">31.8%</tspan></text></g><g class="row" style="animation-delay:0.1s"><circle cx="180" cy="88" r="5" fill="#E75480"/>
-      <text class="l" x="191" y="92">TypeScript <tspan class="s">26.8%</tspan></text></g><g class="row" style="animation-delay:0.2s"><circle cx="30" cy="114" r="5" fill="#F06595"/>
-      <text class="l" x="41" y="118">PHP <tspan class="s">19.4%</tspan></text></g><g class="row" style="animation-delay:0.30000000000000004s"><circle cx="180" cy="114" r="5" fill="#FF8FB8"/>
+      <text class="l" x="191" y="92">TypeScript <tspan class="s">26.7%</tspan></text></g><g class="row" style="animation-delay:0.2s"><circle cx="30" cy="114" r="5" fill="#F06595"/>
+      <text class="l" x="41" y="118">PHP <tspan class="s">19.5%</tspan></text></g><g class="row" style="animation-delay:0.30000000000000004s"><circle cx="180" cy="114" r="5" fill="#FF8FB8"/>
       <text class="l" x="191" y="118">HTML <tspan class="s">12.6%</tspan></text></g><g class="row" style="animation-delay:0.4s"><circle cx="30" cy="140" r="5" fill="#FFB3CF"/>
       <text class="l" x="41" y="144">CSS <tspan class="s">5.5%</tspan></text></g><g class="row" style="animation-delay:0.5s"><circle cx="180" cy="140" r="5" fill="#FFD6E7"/>
       <text class="l" x="191" y="144">JavaScript <tspan class="s">1.7%</tspan></text></g></svg>
