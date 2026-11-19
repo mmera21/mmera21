@@ -75,7 +75,7 @@ I moved countries and learned a new language. New tech stacks don't scare me.
 
 **Backend, Databases & DevOps**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,cloudflare,workers,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,cloudflare,workers,git,github,vscode&theme=light" />
 
 **Design**
 
