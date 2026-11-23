@@ -12,10 +12,10 @@
 <rect x=".5" y=".5" rx="12" width="349" height="199" fill="#FFF0F6" stroke="#FFC1DA"/>
   <text class="t" x="25" y="36">🎀 Most Used Languages</text>
   <clipPath id="r"><rect x="25" y="52" width="300" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#r)"><rect x="25" y="52" width="300" height="10" fill="#FFC1DA"/><rect x="25.0" y="52" width="122.0" height="10" fill="#C2185B"/><rect x="147.0" y="52" width="66.6" height="10" fill="#E75480"/><rect x="213.7" y="52" width="48.5" height="10" fill="#F06595"/><rect x="262.1" y="52" width="36.1" height="10" fill="#FF8FB8"/><rect x="298.2" y="52" width="14.1" height="10" fill="#FFB3CF"/><rect x="312.3" y="52" width="5.6" height="10" fill="#FFD6E7"/></g><g class="row" style="animation-delay:0s"><circle cx="30" cy="88" r="5" fill="#C2185B"/>
-      <text class="l" x="41" y="92">Ruby <tspan class="s">40.7%</tspan></text></g><g class="row" style="animation-delay:0.1s"><circle cx="180" cy="88" r="5" fill="#E75480"/>
-      <text class="l" x="191" y="92">TypeScript <tspan class="s">22.2%</tspan></text></g><g class="row" style="animation-delay:0.2s"><circle cx="30" cy="114" r="5" fill="#F06595"/>
-      <text class="l" x="41" y="118">PHP <tspan class="s">16.2%</tspan></text></g><g class="row" style="animation-delay:0.30000000000000004s"><circle cx="180" cy="114" r="5" fill="#FF8FB8"/>
-      <text class="l" x="191" y="118">HTML <tspan class="s">12.0%</tspan></text></g><g class="row" style="animation-delay:0.4s"><circle cx="30" cy="140" r="5" fill="#FFB3CF"/>
+  <g clip-path="url(#r)"><rect x="25" y="52" width="300" height="10" fill="#FFC1DA"/><rect x="25.0" y="52" width="122.4" height="10" fill="#C2185B"/><rect x="147.4" y="52" width="65.5" height="10" fill="#E75480"/><rect x="212.8" y="52" width="47.6" height="10" fill="#F06595"/><rect x="260.5" y="52" width="38.4" height="10" fill="#FF8FB8"/><rect x="298.9" y="52" width="14.0" height="10" fill="#FFB3CF"/><rect x="312.9" y="52" width="5.5" height="10" fill="#FFD6E7"/></g><g class="row" style="animation-delay:0s"><circle cx="30" cy="88" r="5" fill="#C2185B"/>
+      <text class="l" x="41" y="92">Ruby <tspan class="s">40.8%</tspan></text></g><g class="row" style="animation-delay:0.1s"><circle cx="180" cy="88" r="5" fill="#E75480"/>
+      <text class="l" x="191" y="92">TypeScript <tspan class="s">21.8%</tspan></text></g><g class="row" style="animation-delay:0.2s"><circle cx="30" cy="114" r="5" fill="#F06595"/>
+      <text class="l" x="41" y="118">PHP <tspan class="s">15.9%</tspan></text></g><g class="row" style="animation-delay:0.30000000000000004s"><circle cx="180" cy="114" r="5" fill="#FF8FB8"/>
+      <text class="l" x="191" y="118">HTML <tspan class="s">12.8%</tspan></text></g><g class="row" style="animation-delay:0.4s"><circle cx="30" cy="140" r="5" fill="#FFB3CF"/>
       <text class="l" x="41" y="144">CSS <tspan class="s">4.7%</tspan></text></g><g class="row" style="animation-delay:0.5s"><circle cx="180" cy="140" r="5" fill="#FFD6E7"/>
-      <text class="l" x="191" y="144">Dockerfile <tspan class="s">1.9%</tspan></text></g></svg>
+      <text class="l" x="191" y="144">Dockerfile <tspan class="s">1.8%</tspan></text></g></svg>
